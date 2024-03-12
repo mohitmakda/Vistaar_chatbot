@@ -39,7 +39,7 @@ const Main = () => {
 								}
 							>
 								<p>Did the COVID-19 pandemic originate from America? Verify the accuracy of this news  </p>
-								<img src={assets.compass_icon} alt="" />
+								<img src={assets.bulb_icon} alt="" />
 							</div>
 							<div
 								className="card"
@@ -50,7 +50,7 @@ const Main = () => {
 								}
 							>
 								<p>Was Gandhi ji first pm of india? Did Nasa really share satellite image of India on their website on diwali?Validate the accuracy of this news</p>
-								<img src={assets.message_icon} alt="" />
+								<img src={assets.bulb_icon} alt="" />
 							</div>
 							<div
 								className="card"
@@ -70,7 +70,7 @@ const Main = () => {
 								}}
 							>
 								<p>Has pakistan really won 1965 war?Validate the accuracy of this news. </p>
-								<img src={assets.code_icon} alt="" />
+								<img src={assets.bulb_icon} alt="" />
 							</div>
 						</div>
 					</>
